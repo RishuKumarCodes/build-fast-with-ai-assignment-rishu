@@ -37,9 +37,7 @@ A fully-featured React Native application built with Expo, featuring user authen
 
 ## You can install and test app from this link itself to prevent overhead of forking and running the project locally
 
-```
-Download Link:
-```
+Download Link: <https://expo.dev/accounts/rishukumarcodes/projects/build-fast-with-ai-assignment-rishu/builds/29e18b5e-7f40-49e0-badb-77dd0b2b4e62>
 
 ## Installation
 
@@ -140,8 +138,6 @@ Your Name - [Your GitHub Profile](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
-- If you're still reading this. Thank you for your time. I believe I've implemented whatever features were asked. Hope you like it.
+- If you've read till the end, thanks for checking out my work. . I believe I've implemented whatever features were asked. Hope you like it.
 
 ---
-
-Made with ❤️ using React Native & Expo
